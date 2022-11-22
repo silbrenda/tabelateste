@@ -1,0 +1,109 @@
+
+
+body {
+    width: 1570px;
+    height: 1070px;
+    margin: 0 auto;
+}
+
+
+header {
+    background-color: #fbe4ff;
+    border: 3px solid #ecd4ff;
+    margin: 30px 100px;
+    height: 222px;
+
+}
+
+.header {
+    background-color: #ecd4ff;
+    padding: 0px 20px 5px 20px;
+}
+
+nav  {
+    background-color: #c4faf8;
+    border: 3px solid #85e3ff;
+    margin: 30px;
+    width: 95%;
+    height: 106px;
+}
+
+.nav {
+    background-color:  #85e3ff;
+    padding: 0px 20px 5px 20px;
+}
+
+main  {
+    background-color: #dbffd6;
+    border: 3px solid #bffcc6;
+    height: 675px;
+    margin: 0px 100px;
+        
+}
+
+.main {
+    background-color:  #bffcc6;
+    padding: 0px 20px 5px 20px;
+    float: left;
+}
+
+
+article  {
+    background-color: #ffccf9;
+    border: 3px solid #ffb5e8;
+    margin: 0px 30px;
+    width: 60%;
+    height: 548px;
+    float: left
+}
+
+.article {
+    background-color:  #ffb5e8;
+    padding: 0px 20px 5px 20px;
+}
+
+section   {
+    background-color: #dcd3ff;
+    border: 3px solid #b5b9ff;
+    margin: 30px;
+    height: 122px;
+}
+
+.section {
+    background-color:  #b5b9ff;
+    padding: 0px 20px 5px 20px;
+}
+
+aside   {
+    background-color: #f3ffe3;
+    border: 3px solid #ffffd1;
+    width: 20%;
+    height: 548px;
+    float: right;
+    margin-right: 30px;
+}
+
+.aside {
+    background-color:  #ffffd1;
+    padding: 0px 20px 5px 20px;
+}
+
+footer  {
+    background-color: #ffd8c9;
+    border: 3px solid #f7c3ba;
+    margin: 30px 100px;
+    height: 222px;
+}
+
+.footer {
+    background-color:  #f7c3ba;
+    padding: 0px 20px 5px 20px;
+}
+
+
+
+
+
+
+
+
